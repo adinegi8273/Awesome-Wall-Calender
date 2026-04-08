@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Awesome-Wall-Calender/static/css/main.0f2421e6.css",
+    "main.js": "/Awesome-Wall-Calender/static/js/main.474279cd.js",
+    "index.html": "/Awesome-Wall-Calender/index.html",
+    "main.0f2421e6.css.map": "/Awesome-Wall-Calender/static/css/main.0f2421e6.css.map",
+    "main.474279cd.js.map": "/Awesome-Wall-Calender/static/js/main.474279cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f2421e6.css",
+    "static/js/main.474279cd.js"
+  ]
+}
